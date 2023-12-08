@@ -8,12 +8,8 @@ Full Stack Developer
 * ✉️  You can contact me at [Maxwell.heenan@gmail.com](mailto:Maxwell.heenan@gmail.com)
 * 🧠  I'm learning HTML, CSS, Javascript, MySQL, Python
 * 🤝  I'm open to collaborating on I am always looking for new and exciting projects. Feel free to reach out to me if you want to build something cool.
-* ⚡  I enjoy anime, chess, and cute animal pictures.
 
-
-![cute picture of a panda](https://www.ohklife.us.com/cdn/shop/articles/7_panda_facts_1200x.jpg?v=1552558072)
-
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
@@ -24,7 +20,7 @@ Full Stack Developer
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
-### Languages
+## Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,17 +28,17 @@ Full Stack Developer
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Frameworks
+## Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Databases
+## Databases
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -56,7 +52,7 @@ Full Stack Developer
 
 # My Github Stats
 
-### If unable to see the stats just refresh the page and they should come up. 
+## If unable to see the stats just refresh the page and they should come up. 
 
 <a href="http://www.github.com/Mboy3000"><img src="https://github-readme-stats.vercel.app/api?username=Mboy3000&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="Mboy3000's GitHub stats" /></a>
 
@@ -65,3 +61,12 @@ Full Stack Developer
 <a href="http://www.github.com/Mboy3000"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mboy3000&bg_color=000000&color=ffffff&line=14b8a6&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Mboy3000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mboy3000&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## About Me
+
+* ⚡  I enjoy anime, chess, and cute animal pictures.
+
+
+![cute picture of a panda](https://www.ohklife.us.com/cdn/shop/articles/7_panda_facts_1200x.jpg?v=1552558072)
+
+
