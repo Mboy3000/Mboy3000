@@ -10,6 +10,9 @@ Full Stack Developer
 * 🤝  I'm open to collaborating on I am always looking for new and exciting projects. Feel free to reach out to me if you want to build something cool.
 * ⚡  I enjoy anime, chess, and cute animal pictures.
 
+
+![cute picture of a panda](https://www.ohklife.us.com/cdn/shop/articles/7_panda_facts_1200x.jpg?v=1552558072)
+
 ### Skills
 
 <p align="left">
