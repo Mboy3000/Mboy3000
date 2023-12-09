@@ -9,6 +9,21 @@ Full Stack Developer
 * 🧠  I'm learning HTML, CSS, Javascript, MySQL, Python
 * 🤝  I'm open to collaborating on I am always looking for new and exciting projects. Feel free to reach out to me if you want to build something cool.
 
+
+  
+# My Github Stats
+
+## If unable to see the stats just refresh the page and they should come up. 
+
+<a href="http://www.github.com/Mboy3000"><img src="https://github-readme-stats.vercel.app/api?username=Mboy3000&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="Mboy3000's GitHub stats" /></a>
+
+<a href="http://www.github.com/Mboy3000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mboy3000&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Mboy3000"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mboy3000&bg_color=000000&color=ffffff&line=14b8a6&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Mboy3000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mboy3000&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 ## Skills
 
 <p align="left">
@@ -50,23 +65,21 @@ Full Stack Developer
 <p align="left"> <a href="https://www.github.com/Mboy3000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/maxwell-heenan-977371130/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-# My Github Stats
-
-## If unable to see the stats just refresh the page and they should come up. 
-
-<a href="http://www.github.com/Mboy3000"><img src="https://github-readme-stats.vercel.app/api?username=Mboy3000&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="Mboy3000's GitHub stats" /></a>
-
-<a href="http://www.github.com/Mboy3000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mboy3000&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Mboy3000"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mboy3000&bg_color=000000&color=ffffff&line=14b8a6&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Mboy3000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mboy3000&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## About Me
 
-* ⚡  I enjoy anime, chess, and cute animal pictures.
-
+* ⚡  I enjoy anime, chess, cute animal pictures, and bad puns.
+* I  am certified world's greatest uncle to two beautiful nieces.
   
+  top 5: anime
+  1. Samurai Champloo.
+  2. Naruto.
+  3. Cowboy Bebop.
+  4. Bleach.
+  5. Way of the househusband. 
+
+  Favorite sports team:
+  Nebraska  Corn Huskers
 
 ## My spirit animal 
 
